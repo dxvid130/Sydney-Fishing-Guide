@@ -50,3 +50,5 @@ Freshwater (Greater Sydney):
 Penrith (Nepean River): The "Home of the Bass." Best fished from a kayak or the bank near the bridge.
 
 Lake Parramatta: A hidden gem stocked with Australian Bass. Great for a family day out.
+
+https://www.google.com/imgres?q=fishing%20images&imgurl=https%3A%2F%2Ftackleworld.com.au%2Fcdn%2Fshop%2Farticles%2Fbeach-fishing_93db709d-69cc-49f8-9ecc-ad40eb7b6f57.png%3Fv%3D1733716094%26width%3D1600&imgrefurl=https%3A%2F%2Ftackleworld.com.au%2Fblogs%2Fnews%2Fbeach-fishing-101-the-ultimate-guide&docid=jGoPNRRiEH2GQM&tbnid=xE_1drahi9INSM&vet=12ahUKEwi0zqfe-MSTAxVzr1YBHQqKJOsQnPAOegQIGxAB..i&w=700&h=434&hcb=2&ved=2ahUKEwi0zqfe-MSTAxVzr1YBHQqKJOsQnPAOegQIGxAB 
