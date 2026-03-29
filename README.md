@@ -1,97 +1,52 @@
+Page 1: Home – The "Big Three" Gear Essentials
+The Rod: For Sydney, a 7-foot graphite spinning rod (rated 2-5kg) is the "Swiss Army Knife." It’s light enough for Bream in the harbour but strong enough for a decent Flathead.
 
-body {
-    font-family: Arial, sans-serif;
-    background: #061b36;
-    color: #fff;
-    margin: 0;
-    padding: 0;
-}
-header {
-    background: #011022;
-    padding: 20px 0;
-    text-align: center;
-}
-header h1 {
-    color: #2bb3ff;
-    margin: 0;
-}
-nav {
-    background: #112e58;
-    text-align: center;
-}
-nav a {
-    color: #fff;
-    text-decoration: none;
-    padding: 12px 22px;
-    display: inline-block;
-    transition: background .2s;
-}
-nav a:hover, nav .active {
-    background: #2bb3ff;
-    color: #011022;
-}
-.container {
-    max-width: 900px;
-    margin: 30px auto 0 auto;
-    background: #102347;
-    padding: 30px;
-    border-radius: 10px;
-    box-shadow: 0 0 30px #0002;
-}
-.images-row {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 18px;
-    margin: 24px 0;
-}
-.images-row img {
-    width: 170px;
-    height: 110px;
-    object-fit: cover;
-    border-radius: 7px;
-    border: 2px solid #2bb3ff75;
-    background: #0002;
-}
-.species-card, .tip-card {
-    background: #14396b;
-    border-radius: 8px;
-    padding: 15px;
-    margin: 15px 0;
-}
-@media (max-width: 700px) {
-    .container {
-        padding: 10px;
-    }
-    .images-row {
-        flex-direction: column;
-        gap: 10px;
-    }
-    .images-row img {
-        width: 100%;
-        height: auto;
-    }
-}
-iframe {
-    border-radius: 7px;
-    box-shadow: 0 0 10px #0005;
-    margin-top: 15px;
-    margin-bottom: 10px;
-}
-.button {
-    background: #2bb3ff;
-    color: #102347;
-    border: none;
-    padding: 14px 26px;
-    border-radius: 6px;
-    text-decoration: none;
-    font-weight: bold;
-    display: inline-block;
-    margin-top: 28px;
-}
-.button:hover {
-    background: #197cb6;
-    color: #fff;
-}
-ul, li {
-    color: #aee2ff;
-}
+The Reel: A 2500 or 3000 size spinning reel is perfect. Spool it with 10lb braided line for better casting distance, and always use a 1.5m fluorocarbon leader at the end so the fish can’t see the line.
+
+The Tackle Box: Must-haves include Size 1/0 Long Shank hooks (great for prawns), Size 4 Baitholder hooks (for worms), and a variety of Ball Sinkers (Size 0 to 3) to adjust for the Sydney current.
+
+Page 2: Species – The Sydney "bread and butter"
+Dusky Flathead (The King of the Sand):
+
+Where: Botany Bay, Port Hacking, and Narrabeen Lagoon.
+
+How: They hide in the sand waiting for food. Slow-roll a 3-inch "paddle tail" soft plastic along the bottom.
+
+Yellowfin Bream (The Smart Ones):
+
+Where: Around any wharf pylons, bridge submerged rocks, or oyster leases.
+
+How: Use very light line. Best baits are fresh bread, peeled prawns, or specialized "cranka crabs."
+
+Australian Salmon (The Winter Fighters):
+
+Where: Boiling on the surface at Middle Harbour or off the rocks at South Head.
+
+How: Look for birds diving. Cast small silver metal lures and retrieve them as fast as you can.
+
+Page 3: NSW Rules & Safety (The Important Stuff)
+The License: You must carry a NSW Recreational Fishing Fee receipt (available online or at Kmart/tackle shops) unless you are under 18 or meet specific exemptions.
+
+The "Slot" Limit: For Dusky Flathead, you can only keep fish between 36cm and 70cm. Anything over 70cm is a "breeder" and must be released.
+
+Rock Safety: Sydney's ocean ledges are dangerous. Rule 1: Never turn your back on the ocean. Rule 2: Always wear "cleats" (spiked boots) so you don't slip on the green slime (vermetid).
+
+Page 4: Beginner Guide – The "Must-Know" Knots
+The Uni Knot: This is the only knot you truly need to start. It attaches your hook to your line and won't slip.
+
+The Double Uni: Use this to join your braided main line to your clear leader line.
+
+The "Secret" Tip: Always wet your knot with a bit of water or saliva before pulling it tight. This prevents friction heat from weakening the line.
+
+Page 5: Locations – Fresh vs. Salt
+Saltwater (Harbour):
+
+Clifton Gardens: Great for Squid at night and Kingfish in summer. Has a big net for safety.
+
+Iron Cove: Excellent for land-based Bream and Flathead.
+
+Freshwater (Greater Sydney):
+
+Penrith (Nepean River): The "Home of the Bass." Best fished from a kayak or the bank near the bridge.
+
+Lake Parramatta: A hidden gem stocked with Australian Bass. Great for a family day out.
